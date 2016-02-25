@@ -1,0 +1,38 @@
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\Interop.ARK.dll
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\3910.csproj.ResolveComReference.cache
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\_3910.Form1.resources
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\_3910.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\3910\3910\bin\Debug\3910.exe
+d:\my documents\visual studio 2010\Projects\3910\3910\bin\Debug\3910.pdb
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\3910.exe
+d:\my documents\visual studio 2010\Projects\3910\3910\obj\x86\Debug\3910.pdb
+H:\3910\3910\obj\x86\Debug\Interop.ARK.dll
+H:\3910\3910\obj\x86\Debug\3910.csproj.ResolveComReference.cache
+H:\3910\3910\obj\x86\Debug\3910.exe
+H:\3910\3910\obj\x86\Debug\3910.pdb
+H:\3910\3910\bin\Debug\3910.exe
+H:\3910\3910\bin\Debug\3910.pdb
+H:\3910\3910\obj\x86\Debug\_3910.Form1.resources
+H:\3910\3910\obj\x86\Debug\_3910.Properties.Resources.resources
+H:\3910\3910\obj\x86\Debug\3910.csproj.GenerateResource.Cache
+H:\3910\3910\obj\x86\Debug\_3910.Password.resources
+H:\3910\3910\obj\x86\Debug\3910.csprojResolveAssemblyReference.cache
+D:\3910\3910\bin\Debug\3910.exe
+D:\3910\3910\bin\Debug\3910.pdb
+D:\3910\3910\obj\x86\Debug\Interop.ARKfit.dll
+D:\3910\3910\obj\x86\Debug\Interop.ARKReg.dll
+D:\3910\3910\obj\x86\Debug\3910.csproj.ResolveComReference.cache
+D:\3910\3910\obj\x86\Debug\_3910.ExtParameters.resources
+D:\3910\3910\obj\x86\Debug\_3910.Form1.resources
+D:\3910\3910\obj\x86\Debug\_3910.FreTabControl.resources
+D:\3910\3910\obj\x86\Debug\_3910.GridControl.resources
+D:\3910\3910\obj\x86\Debug\_3910.Password.resources
+D:\3910\3910\obj\x86\Debug\_3910.Properties.Resources.resources
+D:\3910\3910\obj\x86\Debug\_3910.TextBoxLab.resources
+D:\3910\3910\obj\x86\Debug\3910.csproj.GenerateResource.Cache
+D:\3910\3910\obj\x86\Debug\3910.exe
+D:\3910\3910\obj\x86\Debug\3910.pdb
+D:\3910\3910\obj\x86\Debug\3910.csprojResolveAssemblyReference.cache
